@@ -1,24 +1,64 @@
-# README
+# Hello Rails React
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> This project helps to generate random greeting messages.
 
-Things you may want to cover:
+## Built With
 
-* Ruby version
+- Ruby on rails
+- PostgreSql
+- React / Redux
+## Getting Started
 
-* System dependencies
+**To get local copy up and running the application follow these simple steps:**
 
-* Configuration
+### Prerequisites
 
-* Database creation
+You need the following tools be installed in your computer:
 
-* Database initialization
+- Git
+- Ruby
+- Rails
+- PostgreSql
+- yarn
 
-* How to run the test suite
+### Setup
 
-* Services (job queues, cache servers, search engines, etc.)
+1. Download the Zip file or clone the repo with:
 
-* Deployment instructions
+   `https://github.com/sarazaToussaint/hello-rails-react.git`
 
-* ...
+2. To access the project directory
+   `cd hello-rails-react`
+
+### Install
+
+`bundle install`
+`rails db:migrate`
+
+### To run the app locally in the browser use:
+
+`rails s`
+
+`yarn build`
+
+## Author
+
+
+👤 **Toussaint Saraza**
+
+- GitHub: [@sarazaToussaint](https://github.com/sarazaToussaint)
+- Twitter: [@ToussaintSaraz1](https://twitter.com/ToussaintSaraz1)
+- LinkedIn: [Toussaint Saraza](https://www.linkedin.com/in/toussaintsaraza/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/sarazaToussaint/hello-rails-react.git/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
